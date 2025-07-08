@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crafty-granite-462012-h5",
+  "private_key_id": "add4bed858ed9ce3c16c41ae9c380aceed422ddf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSpS4ZsrOu6P4d\nEoFmriKcRHluUOytinhvD+CTl0It2+5gpj0jL4B8FuL3kmw9nbdSr7zip/NyDMhB\nTMyLb37Rny2ZtdAiaOMtnY7JR6hx/Gm+NNw1cr1G1z93w5vl0thLU6WQFdrMFlNV\ndQU4l5898ipf9s0uF11fSLLJQzGJ1d7rJU/ubdwPGTaWeBva0qZEFSnESto738I/\n7pcKgxDVenGgRuy/675YlmRhLhTb9ZL3C400qrX0wOVAbB2Z+2cLT3ykAj3UyFqh\nA9MjdqbYFUZ0xuUnHZqvSMgE4JGS4R6xkbjFtzcgdqZSsrq1HH3TsJDAlm7G8N2O\nL+OnldVvAgMBAAECggEARBh5AkzlvEyMJ7LerPAiuT7gxnXEmcdpqmUMi2ybOhFd\nLbs0O6EEwFqeVYlEQw54QOjDRNrppKXD3fLMLtl84dlRQwXW2wuqppV55wSj9x5X\nehAwy472zq0IV1RZkcypTL1QbcqAOfIKC25WGNPricfonnxMBeGqpaLsBqJxoAeg\nyJe+/nlVqkZ6HmHmSPCMfUbIZocTjfnyUMtGXgojPCftlpOVz6delsEYtv18K99W\n3IhiFOnJZ327zKEYe7AuNbpOn1H04U7iOrFmKaN0qgeAMhJOZHCcoBLtCiQBWAtL\nA04DlNSRa9DAuzb8JAJg6jOQRNNfa2dLfOA/uoZlTQKBgQDGPFmsZqjUogHUI+Ja\nU3PMTq0zdv+a71NJOWkex2LhPinmqN9XMB5d2Fn/+519s/5aQVcepxMrLUSgk+wy\n2xAvzPNuwO4WxSum1Otee9Qln+mhhEta1/HhPYES7br5j60snqdeehKsj7L7VLSk\nl2GxHtekrFhh9RVqFDWQqt1l/QKBgQC9YF6dEn6OSY/TOrDe7zs9UsYB6HAP29gM\nZxl2NyavpTfn9ArkhyYgWGYnc1z0tCCaSVr9Wo2KrQuPoF284pJrQH3tOeP4iBqv\nawpSB8zqc0BOfxea9XgBIFJNs5GXl2wYenNqYoW0ap06iBdrp3ocjZNp4M4/XqTU\nCpEHj/bO2wKBgB2WqHPZJt4GCGvXp1OAHUqje6qw2loP2siVLyGO9S1Vj/+DuUJU\nRlQPlO9maQ14LkDee9hxa6UILrQhICI/HF1mI/emCGORroBKS49gwDuVcNPQ4UZ/\n8PSDr55ZqYzSazC7xZOOePcUw8xLymK+zbAYQGut5ctJP5cDyTL8respAoGAUfg3\nm8dYjiAbJ/PcgPKN8rI0ULkaYFLpRh0OMVQX46kg9L52RIqXHyMEPIk7sBOTlRSx\nVL5wS5kxSt7AFDUB6XiFyTvoiDfpTQqI8g68TLLMH+30+rbLVbl2xnk2SKZbPJEs\nCd1RQFFxctdbQ9a/DULejtKmk1lVAQ79zYcr7kcCgYAjq935I6iUtmLJOwPkWQUy\n8aAdxTFP01DzqR/f5Mt2XkOvN67BXqwUPyG0mVcQoclyi1UrD69/PXKAyFzIRR2n\nHxgkIKH+y9lTt8ux/5spZoLwcxvrjhzhFu8+Ps9s3lEkdWEFwQVpRwqqYCNF4507\nx92X/5mzr1pLm3uqWRsShg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-eu-digital@crafty-granite-462012-h5.iam.gserviceaccount.com",
+  "client_id": "105195928891948927461",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-eu-digital%40crafty-granite-462012-h5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
